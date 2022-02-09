@@ -1,12 +1,14 @@
 package com.company.main;
 
+
+//teszt hogy megy-e a frissités
 public class Circle {
 
     public int[] lista;
 
     public Circle(int lengthOfTheArray) {
         this.lista = new int[lengthOfTheArray];
-        this.lista[0]=1;
+        this.lista[0]=10;
 
     }
 
